@@ -1,1 +1,2 @@
-#Link - https://imyusufakhtar.github.io/solar-system/
+# The Solar System
+https://imyusufakhtar.github.io/solar-system/
